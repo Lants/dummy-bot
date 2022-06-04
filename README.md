@@ -1,4 +1,3 @@
-# kasa-baby
-Discord bot for KASA server
+# Dummy-Bot
+Discord bot using NextCord. Previously built with Discord.py, but refactored after deprecation.
 
-Update: Not for kasa anymore. Idk where I'll put it.
